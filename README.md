@@ -1,2 +1,2 @@
 # kube
-deploy iac
+deploy iac , i love coding somuch
